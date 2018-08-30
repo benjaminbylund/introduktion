@@ -1,0 +1,41 @@
+html{
+	font-size: 16px;
+	text-align: center;
+}
+body{
+	font-size: 62.5%;
+	background-color: orange;
+}
+
+h1{
+	font-size: 4em;
+}
+
+p{
+	font-size: 2em;
+	font-weight: bold;
+}
+
+li{
+	font-size: 3em;
+	text-decoration: 0;
+}
+
+
+main{
+	width: 80%;
+	margin:0 auto; 
+	background-color: gray;
+	border-radius: 10em;
+	font-family: 'Indie Flower', cursive;
+}
+
+
+img{
+	width: 50%;
+	height: 50%;
+	border: 1px solid black;
+}
+#skiss:hover {
+    content: url('bilder/skiss2.jpg');
+}
