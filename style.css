@@ -18,7 +18,7 @@ p{
 
 li{
 	font-size: 3em;
-	text-decoration: 0;
+	margin-top: 1em;
 }
 
 
@@ -26,7 +26,7 @@ main{
 	width: 80%;
 	margin:0 auto; 
 	background-color: gray;
-	border-radius: 10em;
+	border-radius: 5em;
 	font-family: 'Indie Flower', cursive;
 }
 
@@ -37,5 +37,5 @@ img{
 	border: 1px solid black;
 }
 #skiss:hover {
-    content: url('bilder/skiss2.jpg');
+    content: url('Bilder/skiss2.jpg');
 }
